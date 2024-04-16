@@ -1,0 +1,4 @@
+venv/
+.mypy_cache/
+gameparts/__pycache__/
+__pycache__/
