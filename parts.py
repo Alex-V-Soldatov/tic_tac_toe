@@ -4,7 +4,7 @@ class Board:
     
 
     def __init__(self):
-       # self.field_size = 3
+        self.field_size = 3
         self.board = [
             [' ' for _ in range(self.field_size)] for _ in range(self.field_size)
         ]
